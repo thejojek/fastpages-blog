@@ -1,1 +1,1 @@
-Sitemap: https://jojek.dev/fastpages-blog/sitemap.xml
+Sitemap: https://jojek.dev/sitemap.xml
